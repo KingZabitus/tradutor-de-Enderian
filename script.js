@@ -1,4 +1,3 @@
-window.addEventListener('load', () => {
     let portuguesInput = document.getElementById("portuguesInput");
     let enderianInput = document.getElementById("enderianInput");
     portuguesInput.addEventListener('input', () => {
@@ -7,4 +6,3 @@ window.addEventListener('load', () => {
     enderianInput.addEventListener('input', () => {
         portuguesInput.value = enderianInput.value;
     });
-})
