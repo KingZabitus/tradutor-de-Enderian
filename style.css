@@ -35,7 +35,7 @@ body {
   }
 
   #enderianInput {
-    font-family: "enderian", sans-serif;
+    font-family: "enderian";
   }
   
   input[type="text"]:focus {
