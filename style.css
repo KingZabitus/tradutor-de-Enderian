@@ -36,7 +36,7 @@ body {
 
   @font-face {
     font-family: Enderian;
-    src: url("../tradutor-de-Enderian/src/enderian_panel enderian.ttf") format('truetype');
+    src: url("../tradutor-de-Enderian/src enderian.ttf") format('truetype');
     font-weight: normal;
     font-style: normal;
 }
