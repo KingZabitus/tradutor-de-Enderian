@@ -34,13 +34,6 @@ body {
     transition: box-shadow 0.3s ease;
   }
 
-  @font-face {
-    font-family: Enderian;
-    src: url("../tradutor-de-Enderian/src enderian.ttf") format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
-
   #enderianInput {
     font-family: "enderian";
   }
